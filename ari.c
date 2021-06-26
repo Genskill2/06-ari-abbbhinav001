@@ -1,3 +1,4 @@
+#include <cs50.h>
 string ari(string s)
 {
 	float cl = 0.0f, cw = 0.0f, cs = 0.0f;
